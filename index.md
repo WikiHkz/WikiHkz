@@ -1,2 +1,2 @@
-## Welcome to Yuzho Pages
+## 你是笨瓜
 
