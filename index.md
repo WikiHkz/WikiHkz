@@ -6,5 +6,5 @@ More content will be updated.
 contact information:
 
 - Email：yuzho@yuzho.cn
-- school：Nanjing University of Posts and Telecommunications
-- major:Control science and technology
+- School：Nanjing University of Posts and Telecommunications
+- Major:Control science and technology
